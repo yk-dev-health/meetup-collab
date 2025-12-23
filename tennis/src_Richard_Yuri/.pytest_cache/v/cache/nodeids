@@ -1,0 +1,20 @@
+[
+  "test_main.py::test_both_players_score_40",
+  "test_main.py::test_func",
+  "test_main.py::test_new_game",
+  "test_main.py::test_new_game_playerOne_scores",
+  "test_main.py::test_new_game_playerTwo_scores",
+  "test_main.py::test_playerOne_scores_after_deuce",
+  "test_main.py::test_playerOne_scores_after_playerTwo_second_advantage",
+  "test_main.py::test_playerOne_scores_four_times",
+  "test_main.py::test_playerOne_scores_three_times",
+  "test_main.py::test_playerOne_scores_twice",
+  "test_main.py::test_playerOne_scores_twice_after_duce",
+  "test_main.py::test_playerTwo_scores_after_deuce",
+  "test_main.py::test_playerTwo_scores_after_playerOne_second_advantage",
+  "test_main.py::test_playerTwo_scores_four_times",
+  "test_main.py::test_playerTwo_scores_three_times",
+  "test_main.py::test_playerTwo_scores_twice",
+  "test_main.py::test_playerTwo_scores_twice_after_duce",
+  "test_main.py::test_playertwo_scores_after_playerone_advantage"
+]
